@@ -1,7 +1,10 @@
 <a id="one">
 
-## Name
-### Kostromkin Artur
+<center >
+
+# Kostromkin Artur Front-End Developer #
+
+</center>
 
 </a>
 
@@ -30,42 +33,43 @@
 
 <a id="three">
 
-### Myself information: 
->I'm a front-end developer, I want to start working in a team on a big project soon. I quickly learn and develop in this direction. Now I work as a 3D-designer, I want to change direction.Completed JS, Git+GitHub, React and HTML/CSS courses from
-<a href="https://stashchuk.com/" target="_blank">Bogdan Stashchuk</a>
+## Myself information: 
+>_I'm a front-end developer, I want to start working in a team on a big project soon. I quickly learn and develop in this direction. Now I work as a 3D-designer, I want to change direction.Completed JS, Git+GitHub, React and HTML/CSS courses from [Bogdan Stashchuk](https://stashchuk.com/)._
 
 </a>
 
 <a id="four">
 
-### Skils:
+## Skils:
 
 - Basic knowledge of JavaScript, HTML, CSS. 
 - Basics of working with Git, Github, GitLab.
 - Basics of Bootstrap Frameworks, React Libraries
 - Practice in VSCode.
 - Basic knowledge of Node.js
- [![Web Stuck](https://github.com/arthurchic20/rsschool-cv/blob/gh-pages/stack_image.png?raw=true)]()
 
 </a>
 
+ [![Web Stuck](https://github.com/arthurchic20/rsschool-cv/blob/gh-pages/stack_image.png?raw=true)]()
+
+
 <a id="five">
 
-### Code examples:
+## Code examples:
 
 </a>
 
 <a id="six">
 
-### Work experience:
+## Work experience:
 
-> I am working on the first one-page projects. I did the "ToDoList" project. I solve exercises on codewars and go through training solutions on learn.javascript.ru. I am currently working as a 3d designer.
+> _I am working on the first one-page projects. I did the "ToDoList" project. I solve exercises on codewars and go through training solutions on learn.javascript.ru. I am currently working as a 3d designer._
 
 </a>
 
 <a id="seven">
 
-### Education:
+## Education:
 
 - Higher specialized education.
 - Secondary completed education.
@@ -76,17 +80,13 @@
 
 <a id="eight">
 
-### English language lvl:
+## English language lvl:
 
->My lvl of English is B1-B2. I study hard to improve my level of English. I read and watch web development training videos in English. I have traveled a lot before and practiced a conversational style. There was an experience of learning in English one interesting sport.
+>_My lvl of English is B1-B2. I study hard to improve my level of English. I read and watch web development training videos in English. I have traveled a lot before and practiced a conversational style. There was an experience of learning in English one interesting sport._
 
 </a>
 
 ## [Back to top](#head)
 
-<div class="fixedbut" onclick=#head>Back to top</div>
-
-<style>
-.fixedbut { position: fixed; bottom: 20px; right: 20px; display: block; background: #2db700; color: #fff; text-decoration: none; padding: 6px 23px; font-size: 17px;}
-.fixedbut:hover { background: #222; }
-</style>
+<a class="top-link hide" href="#top">↑</a>
+<a name=#one></a>
