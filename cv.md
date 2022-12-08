@@ -2,7 +2,7 @@
 
 <center >
 
-# Kostromkin Artur Front-End Developer #
+# Kostromkin Artur  Front-End Developer #
 
 </center>
 
@@ -57,13 +57,63 @@
 
 ## Code examples:
 
+Find Maximum and Minimum Values of a List
+```
+var min = function(list) {
+    let i = list[0]
+    list.forEach(el => {
+        if (el < i) {
+            i = el
+        }
+    })
+    return (i)
+};
+
+var max = function(list) {
+   let i = list[0]
+    list.forEach(el => {
+        if (el > i) {
+            i = el
+        }
+    })
+    return (i)
+};
+```
+
+Basic Mathematical Operations
+```
+function basicOp(operation, value1, value2) {
+    let result
+     if (operation == '+') { 
+          return result =(value1 + value2)
+     }else if (operation == '-') {
+         return result = (value1 - value2)
+     }else if (operation == '*') {
+         return value1 * value2
+     }else if (operation == '/') {
+         return value1 / value2
+     }
+};
+```
+
+Beginner Series #1 School Paperwork
+```
+function paperwork(n, m) {
+  if (m < 0 || n < 0) {
+  return 0
+ }else {
+ return m * n
+ }
+};
+```
+
 </a>
 
 <a id="six">
 
 ## Work experience:
 
-> _I am working on the first one-page projects. I did the "ToDoList" project. I solve exercises on codewars and go through training solutions on learn.javascript.ru. I am currently working as a 3d designer._
+> _I am working on the first one-page projects. I did the "ToDoList" project. I solve exercises on codewars and go through training solutions on learn.javascript.ru. I am currently working as a 3d designer. I am on a course from Epam, a school for developers of RS-school_
 
 </a>
 
@@ -87,6 +137,3 @@
 </a>
 
 ## [Back to top](#head)
-
-<a class="top-link hide" href="#top">↑</a>
-<a name=#one></a>
