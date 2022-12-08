@@ -31,7 +31,8 @@
 <a id="three">
 
 ### Myself information: 
->I'm a front-end developer, I want to start working in a team on a big project soon. I quickly learn and develop in this direction. Now I work as a 3D-designer, I want to change direction.
+>I'm a front-end developer, I want to start working in a team on a big project soon. I quickly learn and develop in this direction. Now I work as a 3D-designer, I want to change direction.Completed JS, Git+GitHub, React and HTML/CSS courses from
+<a href="https://stashchuk.com/" target="_blank">Bogdan Stashchuk</a>
 
 </a>
 
@@ -44,9 +45,8 @@
 - Basics of Bootstrap Frameworks, React Libraries
 - Practice in VSCode.
 - Basic knowledge of Node.js
- 
-  [![N|Solid]()]()
-  
+ [![Web Stuck](https://github.com/arthurchic20/rsschool-cv/blob/gh-pages/stack_image.png?raw=true)]()
+
 </a>
 
 <a id="five">
@@ -83,3 +83,10 @@
 </a>
 
 ## [Back to top](#head)
+
+<div class="fixedbut" onclick=#head>Back to top</div>
+
+<style>
+.fixedbut { position: fixed; bottom: 20px; right: 20px; display: block; background: #2db700; color: #fff; text-decoration: none; padding: 6px 23px; font-size: 17px;}
+.fixedbut:hover { background: #222; }
+</style>
