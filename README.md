@@ -1,1 +1,1 @@
-https://github.com/arthurchic20/rsschool-cv/blob/gh-pages/cv.md
+https://arthurchic20.github.io/rsschool-cv/cv
